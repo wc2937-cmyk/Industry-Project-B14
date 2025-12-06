@@ -15,7 +15,7 @@ and components can be replaced or upgraded independently.
 ---
 
 ## File Overview
-
+Part 1 updated that download data into local conditions is in the seperate branch. 
 ### **Data_handler.py**
 Handles all data acquisition and preprocessing:
 - `MarketDataHandler`:  
